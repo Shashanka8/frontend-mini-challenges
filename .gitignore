@@ -1,2 +1,3 @@
-# ignoring all mp4 files
-*.mp4 
+# ignoring all media files
+*.mp4
+*.mp3
